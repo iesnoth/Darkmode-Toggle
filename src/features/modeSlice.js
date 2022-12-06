@@ -7,7 +7,8 @@ const mode1 = {
     color3: '#4F5165',
     color4: '#547AA5',
     color5: '#50D8D7',
-    photo: 'https://www.placecage.com/200/300'
+    color6: '#FFFFFF',
+    photo: 'https://media.giphy.com/media/dWK0YvLkPTdzq/giphy.gif'
 }
 
 const mode2 = {
@@ -17,6 +18,7 @@ const mode2 = {
     color3: '#FFC2E2',
     color4: '#FF90B3',
     color5: '#EF7A85',
+    color6: '#000000',
     photo: 'https://placekitten.com/200/300'
 }
 
